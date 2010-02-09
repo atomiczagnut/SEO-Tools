@@ -1,0 +1,11 @@
+SEO-Tools - A ruby library for analyzing text to assist search engine optimization
+
+by Colin Trierweiler
+
+Available under the GNU GPL
+
+Basically turns a text file into an array and preforms various operations on it.  Read the comments for more details.  Tells the top ten words, their counts, and density.  Good SEO dictates having the keywords your targeting at a 3-5% density.  "Interesting" words are basically unique and not stop words.
+
+If you can think of more stop words, or other useful data, let me know.
+
+
